@@ -2,9 +2,11 @@
 
 
 
-# IDS706_Fennie_Template
-## Fennie's Python Template
-Includes (but is not limited to):
+# IDS706_Fennie_Report
+## Fennie's Pandas Descriptive Statistics Report Python
+### Python script reads a dataset and generates descriptive statistics and a visualization using Pandas
+
+Core Files are:
 - .devcontainer
 - Makefile
 - CI/CD pipeline
