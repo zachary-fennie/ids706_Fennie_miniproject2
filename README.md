@@ -3,7 +3,7 @@
 
 
 # IDS706_Fennie_Report
-## Fennie's Pandas Descriptive Statistics Report Python
+## Fennie's Pandas Descriptive Statistics Report
 ### Python script reads a dataset and generates descriptive statistics and a visualization using Pandas
 
 Core Files are:
