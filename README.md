@@ -12,3 +12,6 @@ Core Files are:
 - CI/CD pipeline
 - requirements.txt
 - README.md
+
+
+![Alt Text](./summary_stats.png)
