@@ -13,5 +13,8 @@ Core Files are:
 - requirements.txt
 - README.md
 
+### Summary Statistics of the Russian Equipment Losses
+![Alt Text](./summary_stats.png)
 
+### Data Visualization of the Russian Equipment Losses
 ![Alt Text](./summary_stats.png)

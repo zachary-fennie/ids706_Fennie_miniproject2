@@ -1,4 +1,4 @@
-from funcs import add
+import library as lib
 
 if __name__ == "__main__":
     """
@@ -8,7 +8,6 @@ if __name__ == "__main__":
     # import required libraries
     import pandas as pd
     import matplotlib.pyplot as plt
-    from matplotlib import style
 
     # Source - Kaggle: Russia Ukraine War 2022
     # URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
@@ -41,5 +40,3 @@ if __name__ == "__main__":
     plt.show()
     plt.savefig("main_ground_losses.png")
     plt.close()
-
-    rus_data.to_csv("rus_data_readout.csv")

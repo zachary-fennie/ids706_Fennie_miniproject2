@@ -1,4 +1,9 @@
-pylint
-pytest
-black
-pytest-cov
+# DevOp packages
+pylint == 3.0.2
+pytest == 8.3.2
+black == 24.3.0
+pytest-cov == 4.0.0
+
+# template specific packages
+pandas == 2.2.2
+matplotlib == 3.9.2

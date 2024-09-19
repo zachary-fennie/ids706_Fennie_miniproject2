@@ -1,5 +1,5 @@
-from funcs import add
+import library as lib
 
 
 def test_add():
-    assert add(1, 2) == 3
+    assert lib.add(1, 2) == 3
