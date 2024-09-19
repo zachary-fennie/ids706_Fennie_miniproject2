@@ -6,7 +6,7 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C funcs.py
+	pylint --disable=R,C library.py
 
 test:
 	python -m pytest -vv --cov=hello test_main.py
