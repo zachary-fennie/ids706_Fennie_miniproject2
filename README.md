@@ -8,8 +8,8 @@
 
 
 
-Pandas Decriptive Report for Russian Equipment Losses (since the start of the war)
-Data Source - Kaggle: Russia Ukraine War 2022
+Pandas Decriptive Report for Russian Equipment Losses (since the start of the war)\
+Data Source - Kaggle: Russia Ukraine War 2022\
 URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
 
 Core Files are:
