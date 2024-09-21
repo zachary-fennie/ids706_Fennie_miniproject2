@@ -1,4 +1,4 @@
-name: Python Template test with Github Actions
+name: Pandas Descriptive Statistics Report test with Github Actions
 on: [push]
 jobs:
   build:
