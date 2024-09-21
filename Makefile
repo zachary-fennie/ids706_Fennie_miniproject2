@@ -9,6 +9,6 @@ lint:
 	ruff check *.py
 
 test:
-	python -m pytest -vv --cov=library --cov=main test_*.py
+	python -m pytest -vv --nbval --cov=library --cov=main test_*.py
 
 all: install format lint test
