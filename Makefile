@@ -6,9 +6,9 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C library.py
+	ruff check *.py
 
 test:
 	python -m pytest -vv --cov=library --cov=main test_*.py
 
-all: install lint test
+all: install format lint test
