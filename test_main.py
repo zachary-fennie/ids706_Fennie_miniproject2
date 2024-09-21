@@ -1,5 +1,9 @@
-import library as lib
+"""
+TESTING FOR MAIN
+"""
 
+# import package
+import test_library as test_lib
 
-def test_add():
-    assert lib.add(1, 2) == 3
+# test main
+test_lib.test_report_run()

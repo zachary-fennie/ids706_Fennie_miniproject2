@@ -18,30 +18,30 @@ def data_read(input_csv):
     return output_df
 
 
-def data_preview(input_df):
+def data_preview(input_preview):
     """function reads in a df to return the summary statistics"""
-    output_preview = input_df.describe()
+    output_preview = input_preview.head()
     return output_preview
 
 
-def data_column_names(input_df):
+def data_column_names(input_column_names):
     """function reads in a df to return the summary statistics"""
-    output_columns_names = input_df.columns()
+    output_columns_names = input_column_names.columns
     return output_columns_names
 
 
-def data_summary_stats(input_df):
+def data_summary_stats(input_stats):
     """function reads in a df to return the summary statistics"""
-    output_stats = input_df.describe()
+    output_stats = input_stats.describe
     return output_stats
 
 
-def data_visualization(input_df):
+def data_visualization(input_viz):
     """function creates a basic data visualization"""
     plt.style.use("seaborn-v0_8-darkgrid")
-    plt.plot(input_df["day"], input_df["tank"])
-    plt.plot(input_df["day"], input_df["APC"])
-    plt.plot(input_df["day"], input_df["field artillery"])
+    plt.plot(input_viz["day"], input_viz["tank"])
+    plt.plot(input_viz["day"], input_viz["APC"])
+    plt.plot(input_viz["day"], input_viz["field artillery"])
     plt.title("Russian Equipment Losses in the Russian Ukraine War")
     plt.xlabel("Days (Since Invasion Began)")
     plt.ylabel("Equipment Losses")
