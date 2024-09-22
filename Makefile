@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 format:
-	black *.py
+	black *.py *.ipynb
 
 lint:
 	ruff check *.py
