@@ -1,4 +1,4 @@
-name: Format test with Github Actions
+name: Format
 on: [push]
 jobs:
   build:

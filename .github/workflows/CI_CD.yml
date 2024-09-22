@@ -1,4 +1,4 @@
-name: Pandas Descriptive Statistics Report test with Github Actions
+name: CI/CD
 on: [push]
 jobs:
   build:

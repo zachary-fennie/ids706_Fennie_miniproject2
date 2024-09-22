@@ -1,4 +1,4 @@
-name: Install test with Github Actions
+name: Install
 on: [push]
 jobs:
   build:
