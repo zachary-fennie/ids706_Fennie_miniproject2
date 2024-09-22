@@ -1,4 +1,4 @@
-name: Install test with Github Actions
+name: Lint test with Github Actions
 on: [push]
 jobs:
   build:
