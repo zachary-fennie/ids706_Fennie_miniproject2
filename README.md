@@ -1,12 +1,12 @@
-[![Python Template test with Github Actions](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml)
+[![CI/CD](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/CI_CD.yml)
 
 [![Install](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/install.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/install.yml)
 
-[![Format test with Github Actions](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml)
+[![Format](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/format.yml)
 
-[![Lint test with Github Actions](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml)
+[![Lint](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/lint.yml)
 
-[![Test test with Github Actions](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml)
+[![Test](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml/badge.svg)](https://github.com/zfennie/ids706_Fennie_miniproject2/actions/workflows/test.yml)
 
 
 
