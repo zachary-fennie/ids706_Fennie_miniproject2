@@ -21,6 +21,8 @@ Core Files are:
 - Makefile
 - README.md
 
+Private Video Link: https://youtu.be/Ikr3W7MdwT0
+
 ### Summary Statistics of the Russian Equipment Losses
 ![Alt Text](./summary_stats.png)
 
