@@ -40,7 +40,6 @@ def test_data_summary_stats():
 def test_data_visualization():
     """test function checks if data is viz is operating as intended"""
     try:
-        # Test plot, but not displaying it
         plt.figure()
         plot_success = True
     except Exception as e:
