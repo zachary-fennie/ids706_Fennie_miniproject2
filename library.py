@@ -7,11 +7,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def add(x, y):
-    """function adds two varibales serves"""
-    return x + y
-
-
 def data_read(input_csv):
     """function reads in a csv to return a df"""
     output_df = pd.read_csv(input_csv)
