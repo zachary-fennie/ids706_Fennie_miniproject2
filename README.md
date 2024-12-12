@@ -23,7 +23,7 @@ Data Source - Kaggle: Russia Ukraine War 2022\
 URL: https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war?select=russia_losses_equipment.csv
 
 ### Summary Statistics of the Russian Equipment Losses
-<img width="1036" alt="summary_stats" src="https://github.com/user-attachments/assets/ffde5183-3a63-46a0-8a8c-9af455beae5d" />
+![summary_stats](https://github.com/zachary-fennie/ids706_Fennie_miniproject2/issues/2#issue-2737021292)
 
 ### Data Visualization of the Russian Equipment Losses
 ![main_ground_losses](https://github.com/user-attachments/assets/d028ccb4-d8b0-4b82-9dcc-6955eddc1377)
